@@ -1,0 +1,15 @@
+C:\Users\sales\source\repos\wpfMVVMDemo\wpfMVVMDemo\bin\Debug\wpfMVVMDemo.exe.config
+C:\Users\sales\source\repos\wpfMVVMDemo\wpfMVVMDemo\bin\Debug\wpfMVVMDemo.exe
+C:\Users\sales\source\repos\wpfMVVMDemo\wpfMVVMDemo\bin\Debug\wpfMVVMDemo.pdb
+C:\Users\sales\source\repos\wpfMVVMDemo\wpfMVVMDemo\obj\Debug\wpfMVVMDemo.csproj.AssemblyReference.cache
+C:\Users\sales\source\repos\wpfMVVMDemo\wpfMVVMDemo\obj\Debug\App.g.cs
+C:\Users\sales\source\repos\wpfMVVMDemo\wpfMVVMDemo\obj\Debug\wpfMVVMDemo_MarkupCompile.cache
+C:\Users\sales\source\repos\wpfMVVMDemo\wpfMVVMDemo\obj\Debug\wpfMVVMDemo_MarkupCompile.lref
+C:\Users\sales\source\repos\wpfMVVMDemo\wpfMVVMDemo\obj\Debug\wpfMVVMDemo.g.resources
+C:\Users\sales\source\repos\wpfMVVMDemo\wpfMVVMDemo\obj\Debug\wpfMVVMDemo.Properties.Resources.resources
+C:\Users\sales\source\repos\wpfMVVMDemo\wpfMVVMDemo\obj\Debug\wpfMVVMDemo.csproj.GenerateResource.cache
+C:\Users\sales\source\repos\wpfMVVMDemo\wpfMVVMDemo\obj\Debug\wpfMVVMDemo.csproj.CoreCompileInputs.cache
+C:\Users\sales\source\repos\wpfMVVMDemo\wpfMVVMDemo\obj\Debug\wpfMVVMDemo.exe
+C:\Users\sales\source\repos\wpfMVVMDemo\wpfMVVMDemo\obj\Debug\wpfMVVMDemo.pdb
+C:\Users\sales\source\repos\wpfMVVMDemo\wpfMVVMDemo\obj\Debug\Views\MainView.g.cs
+C:\Users\sales\source\repos\wpfMVVMDemo\wpfMVVMDemo\obj\Debug\Views\MainView.baml

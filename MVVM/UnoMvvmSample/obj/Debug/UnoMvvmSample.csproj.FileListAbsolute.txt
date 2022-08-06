@@ -1,0 +1,15 @@
+C:\Users\sales\source\repos\wpfMVVMDemo\UnoMvvmSample\bin\Debug\UnoMvvmSample.exe.config
+C:\Users\sales\source\repos\wpfMVVMDemo\UnoMvvmSample\bin\Debug\UnoMvvmSample.exe
+C:\Users\sales\source\repos\wpfMVVMDemo\UnoMvvmSample\bin\Debug\UnoMvvmSample.pdb
+C:\Users\sales\source\repos\wpfMVVMDemo\UnoMvvmSample\obj\Debug\UnoMvvmSample.csproj.AssemblyReference.cache
+C:\Users\sales\source\repos\wpfMVVMDemo\UnoMvvmSample\obj\Debug\MainWindow.g.cs
+C:\Users\sales\source\repos\wpfMVVMDemo\UnoMvvmSample\obj\Debug\App.g.cs
+C:\Users\sales\source\repos\wpfMVVMDemo\UnoMvvmSample\obj\Debug\UnoMvvmSample_MarkupCompile.cache
+C:\Users\sales\source\repos\wpfMVVMDemo\UnoMvvmSample\obj\Debug\UnoMvvmSample_MarkupCompile.lref
+C:\Users\sales\source\repos\wpfMVVMDemo\UnoMvvmSample\obj\Debug\MainWindow.baml
+C:\Users\sales\source\repos\wpfMVVMDemo\UnoMvvmSample\obj\Debug\UnoMvvmSample.g.resources
+C:\Users\sales\source\repos\wpfMVVMDemo\UnoMvvmSample\obj\Debug\UnoMvvmSample.Properties.Resources.resources
+C:\Users\sales\source\repos\wpfMVVMDemo\UnoMvvmSample\obj\Debug\UnoMvvmSample.csproj.GenerateResource.cache
+C:\Users\sales\source\repos\wpfMVVMDemo\UnoMvvmSample\obj\Debug\UnoMvvmSample.csproj.CoreCompileInputs.cache
+C:\Users\sales\source\repos\wpfMVVMDemo\UnoMvvmSample\obj\Debug\UnoMvvmSample.exe
+C:\Users\sales\source\repos\wpfMVVMDemo\UnoMvvmSample\obj\Debug\UnoMvvmSample.pdb
