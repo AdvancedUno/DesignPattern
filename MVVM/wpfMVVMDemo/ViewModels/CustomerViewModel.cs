@@ -52,11 +52,11 @@ namespace wpfMVVMDemo.ViewModels
 
         public void SaveChanges()
         {
+
+
             //Debug.Assert(false, String.Format("{0} was updated", Customer.Name));
             CustomerInfoView view = new CustomerInfoView();
             view.DataContext = childViewModel;
-
-            
 
             //childViewModel.Info = Customer.Name + " was Updated in the DB";
 

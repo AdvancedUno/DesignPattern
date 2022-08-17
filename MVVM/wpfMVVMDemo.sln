@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleMVVM", "MultipleMVV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnoMvvmSample", "UnoMvvmSample\UnoMvvmSample.csproj", "{BFE36FB6-9782-451A-BE9D-C7C89D88FB7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Navigators", "WPF_Navigators\WPF_Navigators.csproj", "{F40A5458-C2FC-4B70-9D76-06ED24387C33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,14 @@ Global
 		{BFE36FB6-9782-451A-BE9D-C7C89D88FB7D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BFE36FB6-9782-451A-BE9D-C7C89D88FB7D}.Release|x64.ActiveCfg = Release|Any CPU
 		{BFE36FB6-9782-451A-BE9D-C7C89D88FB7D}.Release|x64.Build.0 = Release|Any CPU
+		{F40A5458-C2FC-4B70-9D76-06ED24387C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40A5458-C2FC-4B70-9D76-06ED24387C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40A5458-C2FC-4B70-9D76-06ED24387C33}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F40A5458-C2FC-4B70-9D76-06ED24387C33}.Debug|x64.Build.0 = Debug|Any CPU
+		{F40A5458-C2FC-4B70-9D76-06ED24387C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40A5458-C2FC-4B70-9D76-06ED24387C33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40A5458-C2FC-4B70-9D76-06ED24387C33}.Release|x64.ActiveCfg = Release|Any CPU
+		{F40A5458-C2FC-4B70-9D76-06ED24387C33}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -16,8 +16,6 @@ namespace wpfMVVMDemo.Commands
             this.viewModel = viewModel;
         }
 
-        
-
         public event EventHandler CanExecuteChanged
         {
             add { CommandManager.RequerySuggested += value; }
